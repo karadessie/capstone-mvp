@@ -1,5 +1,7 @@
-1. The Home App adds & updates energy/utility expenses, and displays trends over time. One MVP.
 
-2. Creating, updating, and deleting posts/boards on the community app, second MVP.
+1. The Home App adds, updates, & tracks energy expenses, and displays trends over time. 
 
-3. Linking to APIs to retrieve and total daily CO2 emissions worldwide for state, national, and global apps, third MVP.
+2. Create, update, and delete posts & boards on the Community App.
+
+3. Link to climate/weather APIs to retrieve and display totals and trends for daily CO2 emissions and particulate
+   counts on Community, State, National, and Global apps.
